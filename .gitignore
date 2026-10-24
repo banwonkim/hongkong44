@@ -1,0 +1,15 @@
+Win32/
+proj.win32/
+proj.linux/
+Release/
+RelWithDebInfo/
+proj.ios_mac/
+proj.android/
+lib/
+engine/
+Debug/
+cocos251120.dir/
+cocos2d/
+CMakeFiles/
+bin/
+

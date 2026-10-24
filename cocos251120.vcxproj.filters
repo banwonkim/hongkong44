@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Code\cocos251120\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\ControlLayer.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\CreateTan.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\Enemy.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\Player.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\Classes\StartScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Code\cocos251120\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Code\cocos251120\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Classes\GameScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Classes\shared.hpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Classes\StartScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Classes\UnitDef.hpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_china1.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_china2.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_china3.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_mao1.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_mao2.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\bg_mao3.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\scenedie.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\story0.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\story1.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\story2.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\story3.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bg\story4.jpg">
+      <Filter>Resources\bg</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\bgm\hongkong.mp3">
+      <Filter>Resources\bgm</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\hongkongsprite.plist">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\hongkongsprite.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Code\cocos251120\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Code\cocos251120\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\Code\cocos251120\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{F94DD56C-9EFB-336D-AFC4-3A85B8224398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\bg">
+      <UniqueIdentifier>{2B99121F-1029-3FB2-8C5B-9023D2980B3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\bgm">
+      <UniqueIdentifier>{233C7A4D-7591-3D91-911E-E4FAA79A9311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{0368BAD4-3CD0-33E7-B84B-045448FE53FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{751A2370-F83B-3189-AE40-989689390B56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E6A7FD5E-E290-3EAE-981E-8EBE84693F5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{7E42598C-BEE9-34E0-BF11-F04FA77EF27E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{8F60DA68-316C-30B2-A18F-ECECD0D48130}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="codestruct.txt" />
+  </ItemGroup>
+</Project>
